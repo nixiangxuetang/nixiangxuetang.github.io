@@ -1,16 +1,16 @@
 # Site settings
-title: 笨方法学写作
+title: 逆向学堂
 header-img: "img/Xacebook.jpg"
 tagline: "cn"  
-description: "笨方法学写作|这一次彻底学会写作"  
+description: "逆向学堂|这一次彻底学会写作"  
 baseurl: ""
-url: "http://www.cnfeat.com"  
+url: "reverseschool.cn"  
 
 # About/contact
 owner: 
-  name: "陈素封"
+  name: "党大钧"
   email: CNFeat@gmail.com
-  bio: "笨方法学写作"
+  bio: "逆向学堂"
 
 # Data
 gavatar: img/favicon1.ico

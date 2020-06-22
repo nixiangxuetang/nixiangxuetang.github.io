@@ -5,12 +5,6 @@ description: "知之真切笃实处即是行，行之明觉精察处即是知 "
 header-img: "img/semantic.jpg"
 ---
 
-
-<center>
-    <p><img src="http://openmindclub.qiniudn.com/omt/WhiteAvatar.jpg" align="center"></p>
-</center>
-
-
 ## 故事与人生
 
 - 说说我自己的故事：[给过去自己的一封信](http://www.cnfeat.com/blog/2017/03/03/a-letter-to-myself-in-that-past/)
@@ -24,8 +18,6 @@ header-img: "img/semantic.jpg"
 - [我的写作教练阳志平 - 笨方法学写作](http://www.cnfeat.com/blog/2017/10/18/MyWritingCoach/)
 
 《笨方法学写作》课程官网：http://www.LearnWritingTheHardWay.cn
-
-![](http://openmindclub.qiniudn.com/omt/ProductList01.jpg?imageMogr2/thumbnail/!30p)
 
 
 ## 卡片写作 系列文章
@@ -95,12 +87,6 @@ header-img: "img/semantic.jpg"
 有价值的事物，值得付出时间，也值得付出金钱。
 
 喜欢文章的人可自愿付费，当然也可以不付费。
-
-
-<center>
-    <p><img src="http://openmindclub.qiniudn.com/omt/WechatPay02.jpg" align="center"></p>
-</center>
-
 
 ### ChangeLog
 

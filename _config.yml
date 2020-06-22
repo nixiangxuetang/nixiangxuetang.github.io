@@ -2,26 +2,26 @@
 title: 逆向学堂
 header-img: "img/Xacebook.jpg"
 tagline: "cn"  
-description: "逆向学堂|这一次彻底学会写作"  
+description: "逆向学堂|逆向法巧学英语、编程和写作"  
 baseurl: ""
 url: "reverseschool.cn"  
 
 # About/contact
 owner: 
   name: "党大钧"
-  email: CNFeat@gmail.com
+  email: reverseschool@163.com
   bio: "逆向学堂"
 
 # Data
 gavatar: img/favicon1.ico
 favicon: img/favicon1.ico
 
-douban_username: cnfeat
-twitter_username: feat
-github_username: cnfeat
+douban_username: reverseschool
+twitter_username: reverseschool
+github_username: reverseschool
 facebook_username: 
-weibo_username: cnfeat 
-zhihu_username: feat
+weibo_username: reverseschool
+zhihu_username: reverseschool
 
 # Build settings  
 # use Github Flavored Markdown !important  
@@ -43,7 +43,7 @@ defaults:
       type: "posts"
     values:
       layout: "post"
-      author: "CNFeat"
+      author: "reverseschool"
       header-img: "img/green.jpg" # We don't want posts without a header image, that whould mean white on white
 
 # Comments 

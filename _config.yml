@@ -8,20 +8,20 @@ url: "reverseschool.cn"
 
 # About/contact
 owner: 
-  name: "党大钧"
-  email: reverseschool@163.com
+  name: "学堂小管家"
+  email: nixiangxuetang@163.com
   bio: "逆向学堂"
 
 # Data
 gavatar: img/favicon1.ico
 favicon: img/favicon1.ico
 
-douban_username: reverseschool
-twitter_username: reverseschool
-github_username: reverseschool
+douban_username: nixiangxuetang
+twitter_username: nixiangxuetang
+github_username: nixiangxuetang
 facebook_username: 
-weibo_username: reverseschool
-zhihu_username: reverseschool
+weibo_username: nixiangxuetang
+zhihu_username: nixiangxuetang
 
 # Build settings  
 # use Github Flavored Markdown !important  
